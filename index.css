@@ -1,0 +1,30 @@
+body{
+    background-color: papayawhip;
+    
+}
+
+#contents{
+    display: block;
+    width: 50%;
+    margin: 10px auto;
+    background: white;
+    font-family: 'Poetsen One';
+    justify-content: center;
+    padding: 20px;
+    border-radius: 15px;
+    font-size: 18px;
+}
+
+img{
+    border-radius: 10px;
+    
+}
+
+h3{
+    color: brown;
+}
+#preparation{
+    background-color: papayawhip;
+    border-radius: 15px;
+    padding: 15px;
+}
